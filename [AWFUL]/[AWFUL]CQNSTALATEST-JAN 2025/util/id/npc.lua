@@ -1,0 +1,34 @@
+local Unlocker, awful, project = ...
+
+project.util.id.npc = {
+    -- PRIEST
+    PSYFIEND = 101398,
+
+    -- SHAMAN
+    CAPACITOR_TOTEM = 61245,
+    SURGING_TOTEM = 225409,
+
+    -- WARLOCK
+    FELHUNTER = 417,
+    OBSERVER = 107100,
+
+    -- WARRIOR
+    WAR_BANNER = 119052,
+
+    -- MAGE
+    ICE_WALL = 178819,
+
+    -- DAWNBREAKER
+    SPEAKER_SHADOWCROWN = 211087,
+    ANUBIKKAJ = 211089,
+
+    -- CITY OF THREADS
+    IZO_THE_GRAND_SPLICER = 216658,
+    THE_COAGLAMATION = 216320,
+
+    -- NERUBAR
+    TAKAZJ = 219878,
+
+    -- M+
+    VOID_EMISSARY = 229537
+}

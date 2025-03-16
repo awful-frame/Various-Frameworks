@@ -1,0 +1,6 @@
+{
+  "load": [
+    "Holy.lua",
+    "kicks.lua"
+  ]
+}

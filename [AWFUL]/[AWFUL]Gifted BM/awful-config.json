@@ -1,0 +1,10 @@
+{
+  "load": [
+    "BM.lua",
+    "pet.lua",
+    "mark.lua",
+    "kicks.lua",
+    "list.lua",
+    "totemStomp.lua"
+  ]
+}

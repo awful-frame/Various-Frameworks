@@ -1,0 +1,29 @@
+local Unlocker, awful, project = ...
+
+project.util.id.map = {
+    -- RAIDS
+    -- TWW
+    -- NERUBAR PALACE
+    NERUBAR_PALACE = 2657,
+
+    -- DUNGEONS
+    -- TWW
+    ARA_KARA = 2660,
+    CINDERBREW_MEADERY = 2661,
+    CITY_OF_THREADS = 2669,
+    DARKFLAME_CLEFT = 2651,
+    PRIORY_OF_THE_SACRED_FLAME = 2649,
+    DAWNBREAKER = 2662,
+    THE_ROOKERY = 2648,
+    STONEVAULT = 2652,
+
+    -- SHADOWLANDS
+    NECROTIC_WAKE = 2286,
+    MISTS_OF_THIRNA_SCITHE = 2290,
+
+    -- BFA
+    SIEGE_OF_BORALUS = 1822,
+
+    -- GRIM BATOL
+    GRIM_BATOL = 670,
+}
